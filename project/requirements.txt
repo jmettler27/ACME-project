@@ -1,0 +1,5 @@
+click
+cryptography
+pycryptodome
+dnslib
+Flask
